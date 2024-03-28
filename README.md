@@ -1,4 +1,4 @@
-# Telegram Bot Demo Using Grammy
+# Telegram Bot Demo Using grammY
 
 ## Pre-Requisites
 - Ubuntu 22.04 or above
@@ -17,3 +17,5 @@
 1. Run `node #_<file>.js` to start different bots.
 
 2. Talk to your bot on the Telegram client.
+
+3. Learn more grammY on [here](https://grammy.dev/guide/).
