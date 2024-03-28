@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@grammyjs/conversations": "^1.2.0",
+    "@solana/web3.js": "^1.91.2",
     "dotenv": "^16.4.5",
     "grammy": "^1.21.2"
   }
